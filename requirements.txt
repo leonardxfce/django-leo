@@ -1,0 +1,4 @@
+djangorestframework
+Django==3.1 # DRF has not version for Django 3.2
+PyMySQL
+pygments
